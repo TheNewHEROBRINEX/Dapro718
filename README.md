@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there, I'm Dapro718 - aka Dapro
 
-<!--
-**Dapro718/Dapro718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About:
 
-Here are some ideas to get you started:
+I am a fairy new developer, been programming for about a year. I enjoy working on things related to Minecraft, but want to start making other programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+- 🔭 I’m currently working on a Minecraft Bedrock Servers
+- 🌱 I’m currently learning Java and C++
+- 👯 I’m looking to collaborate on public PocketMine-MP plugins.
+- 🤔 I’m looking for help with reverse engineering Minecraft.
+
+<br />
+
+---
+
+<br />
+
+### Contact:
+
+Discord: ``Dapro#5173``
+
+<br />
+
+---
+
+<br />
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=Dapro718)
