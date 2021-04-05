@@ -2,7 +2,7 @@
 
 ### About:
 
-I am a fairy new developer, been programming for about a year. I enjoy working on things related to Minecraft, but want to start making other programs.
+I am a fairly new developer, been programming for about a year. I enjoy working on things related to Minecraft, but want to start making other programs.
 
 <br />
 
